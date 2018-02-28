@@ -1,4 +1,4 @@
 # hello-world
 new repository
 
-hello world
+i am a student who hopes to be an effective programmer
